@@ -1,4 +1,4 @@
-anyio==4.7.0
+anyio==4.14.2
 base58==2.1.1
 certifi==2024.8.30
 Deprecated==1.2.15

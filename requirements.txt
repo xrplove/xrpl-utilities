@@ -1,6 +1,6 @@
 anyio==4.7.0
 base58==2.1.1
-certifi==2024.8.30
+certifi==2026.10.18
 Deprecated==1.2.15
 ECPy==1.2.5
 h11==0.14.0
